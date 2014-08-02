@@ -1,0 +1,21 @@
+# coding: UTF-8
+# 文字列
+# 文字数 len
+# 検索 find
+# 切り出し [] [start:end]
+s = "adfsgbcdefghi"
+# print len(s)
+# print s.find("x")
+# print s[2:-1]
+
+print len(s)
+
+
+
+
+
+
+
+
+
+
